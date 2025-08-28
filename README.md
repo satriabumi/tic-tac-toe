@@ -1,12 +1,26 @@
-# React + Vite
+# 🎮 Tic Tac Toe (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project ini adalah latihan dalam mempelajari **React** dengan **Vite** sebagai build tool.  
+Game ini adalah **Tic Tac Toe** (X dan O) yang dimainkan secara bergantian.
 
-Currently, two official plugins are available:
+## ✨ Fitur
+- Permainan sederhana Tic Tac Toe 3x3
+- Pemain X dan O bergantian secara otomatis
+- State management menggunakan React `useState`
+- Build with **Vite**
+- Sudah dideploy jadi bisa diakses dengan siapa saja
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Demo
+Game dapat dimainkan langsung di sini:  
+👉 [https://satriabumi.github.io/tic-tac-toe/](https://satriabumi.github.io/tic-tac-toe/)
 
-## Expanding the ESLint configuration
+## 🛠️ Teknologi
+- [React](https://react.dev/)  
+- [Vite](https://vitejs.dev/)  
+- [pnpm](https://pnpm.io/) (package manager)  
+- [gh-pages](https://www.npmjs.com/package/gh-pages) (untuk deploy ke GitHub Pages)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+📌 Catatan:  
+Project ini murni dibuat sebagai **latihan pribadi** dalam memahami dasar-dasar React (component, props, state).
